@@ -1,0 +1,2 @@
+# Sei
+Sei Nodes Testnet
